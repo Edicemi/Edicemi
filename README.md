@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edicemi&label=Profile%20views&color=0e75b6&style=flat" alt="edicemi" /> </p>
 
-- 🔭 I’m currently working on [inventario-mgt](https://github.com/Edicemi/inventario-mgt)
+- 🔭 I’m currently working on [JustChat](https://github.com/Edicemi/JustChat)
 
 - 🌱 I’m currently learning **Frameworks**
 
