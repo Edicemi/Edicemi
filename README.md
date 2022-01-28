@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [JustChat](https://github.com/Edicemi/JustChat)
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Frontend Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Edicemi](https://github.com/Edicemi)
 
