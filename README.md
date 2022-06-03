@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edicemi&label=Profile%20views&color=0e75b6&style=flat" alt="edicemi" /> </p>
 
-- 🔭 I’m currently working on [Twitee](https://github.com/Edicemi/IIT)
+- 🔭 I’m currently working on [QuickResponseCode ](https://github.com/Edicemi/quickresponsecode)
 
 - 🌱 I’m currently learning **Frontend Developement**
 
