@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **victoriataiwo1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ycj05zCCbZxpErug5UrNtWgM9t6xt8qY/view?usp=drivesdk](https://drive.google.com/file/d/1Ycj05zCCbZxpErug5UrNtWgM9t6xt8qY/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/183mmUlDDRgFd5rDTB6kl58g8u3l-UyO9/view?usp=share_link ](https://drive.google.com/file/d/183mmUlDDRgFd5rDTB6kl58g8u3l-UyO9/view?usp=share_link )
 
 - ⚡ Fun fact **I think I am funny and playful.**
 
